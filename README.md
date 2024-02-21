@@ -1,4 +1,4 @@
-![cold, smooth   tasty (4)](https://github.com/josepcontreras/josepcontreras/assets/41411282/d6e934da-8e38-47d9-8a69-2f1254656270)
+![html5](https://github.com/josepcontreras/josepcontreras/assets/41411282/58c4ab3e-a0be-4f00-8a43-ee823b9f4c29)![html5](https://github.com/josepcontreras/josepcontreras/assets/41411282/cb188d81-2df5-476e-9200-63cb9d266672)![cold, smooth   tasty (4)](https://github.com/josepcontreras/josepcontreras/assets/41411282/d6e934da-8e38-47d9-8a69-2f1254656270)
 
 I'm a Full Stack Web Developer who began my journey into the world of coding at the end of 2023. With a deep-seated passion for technology and an insatiable curiosity, I've dedicated myself to mastering the art and science of building seamless, intuitive web applications.
 
@@ -9,15 +9,11 @@ Collaboration and continuous learning are at the core of my development philosop
 If you're interested in collaborating on a project or just want to chat about the latest in web tech, feel free to reach out. Let's build something great together!
 
 ## Technologies
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 520">
+![Uploa<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 520">
   <path fill="#e34f26" d="M41 460L0 0h451l-41 460-185 52" />
   <path fill="#ef652a" d="M226 472l149-41 35-394H226" />
   <path fill="#ecedee" d="M226 208h-75l-5-58h80V94H84l15 171h127zm0 147l-64-17-4-45h-56l7 89 117 32z"/>
   <path fill="#fff" d="M226 265h69l-7 73-62 17v59l115-32 16-174H226zm0-171v56h136l5-56z"/>
-</svg>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 520">
-  <path fill="#0c73b8" d="M41 460L0 0h451l-41 460-185 52"/>
-  <path fill="#30a9dc" d="M226 472l149-41 35-394H226"/>
-  <path fill="#ecedee" d="M226 208H94l5 57h127zm0-114H84l5 56h137zm0 261l-124-33 7 60 117 32z"/>
-  <path fill="#fff" d="M226 265h69l-7 73-62 17v59l115-32 26-288H226v56h80l-6 58h-74z"/>
-</svg>
+</svg>ding html5.svg…]()
+
+
