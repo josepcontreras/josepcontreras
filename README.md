@@ -10,5 +10,4 @@ If you're interested in collaborating on a project or just want to chat about th
 
 ## Technologies
 
-https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
-
+![192158954-f88b5814-d510-4564-b285-dff7d6400dad](https://github.com/josepcontreras/josepcontreras/assets/41411282/2178c5ef-3cce-48bd-8c6e-4c3a830bec03)
