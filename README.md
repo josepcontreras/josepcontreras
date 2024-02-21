@@ -8,7 +8,7 @@ Collaboration and continuous learning are at the core of my development philosop
 
 If you're interested in collaborating on a project or just want to chat about the latest in web tech, feel free to reach out. Let's build something great together!
 
-![Technologies](https://github.com/josepcontreras/josepcontreras/assets/41411282/e9508c89-5c49-4d26-b0ea-31209976de9d)
+## Technologies
 
 <div class="contenedor-imagenes">
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40">
