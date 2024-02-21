@@ -1,4 +1,4 @@
-![cold, smooth   tasty (4)](https://github.com/josepcontreras/josepcontreras/assets/41411282/d6e934da-8e38-47d9-8a69-2f1254656270)
+![cold, smooth   tasty (6)](https://github.com/josepcontreras/josepcontreras/assets/41411282/c1177dd2-6878-485e-9326-0ed7572bd2fc)
 
 I'm a Full Stack Web Developer who began my journey into the world of coding at the end of 2023. With a deep-seated passion for technology and an insatiable curiosity, I've dedicated myself to mastering the art and science of building seamless, intuitive web applications.
 
@@ -8,7 +8,7 @@ Collaboration and continuous learning are at the core of my development philosop
 
 If you're interested in collaborating on a project or just want to chat about the latest in web tech, feel free to reach out. Let's build something great together!
 
-## Technologies
+![Technologies](https://github.com/josepcontreras/josepcontreras/assets/41411282/e9508c89-5c49-4d26-b0ea-31209976de9d)
 
 <div class="contenedor-imagenes">
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40">
