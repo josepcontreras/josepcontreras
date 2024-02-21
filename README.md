@@ -12,7 +12,7 @@ If you're interested in collaborating on a project or just want to chat about th
 
 <div class="contenedor-imagenes">
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40">
-  <img src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" width="40" height="40">
+  <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=255&g=255&b=255" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40">
   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="40" height="40">
