@@ -10,4 +10,4 @@ If you're interested in collaborating on a project or just want to chat about th
 
 ## Technologies
 
-<svg src= "https://svgl.app/library/git.svg" width="100" height="100"></svg>
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="100" height="100">
