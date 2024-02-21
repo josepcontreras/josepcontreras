@@ -7,3 +7,5 @@ From the front end to the back end, I thrive on the challenge of piecing togethe
 Collaboration and continuous learning are at the core of my development philosophy. I believe that the best projects come to life at the intersection of diverse ideas and expertise. Therefore, I'm always eager to contribute to and learn from the community, whether it's through open-source projects, coding meetups, or online forums.
 
 If you're interested in collaborating on a project or just want to chat about the latest in web tech, feel free to reach out. Let's build something great together!
+
+## Technologies
