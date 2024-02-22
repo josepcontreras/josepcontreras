@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Developer who began my journey into the world of coding at the end of 2023. With a deep-seated passion for technology and an insatiable curiosity, I've dedicated myself to mastering the art and science of building seamless, intuitive web applications.
 
-From the front end to the back end, I thrive on the challenge of piecing together the puzzle of languages, frameworks, and technologies to create solutions that not only meet the needs of users but also push the boundaries of what's possible on the web. My toolbox is ever-expanding, but it already includes HTML, CSS, JavaScript, React, Node.js, and more. I'm constantly exploring new technologies and methodologies to stay at the cutting edge of web development.
+From the front end to the back end, I thrive on the challenge of piecing together the puzzle of languages, frameworks, and technologies to create solutions that not only meet the needs of users but also push the boundaries of what's possible on the web.
 
 Collaboration and continuous learning are at the core of my development philosophy. I believe that the best projects come to life at the intersection of diverse ideas and expertise. Therefore, I'm always eager to contribute to and learn from the community, whether it's through open-source projects, coding meetups, or online forums.
 
