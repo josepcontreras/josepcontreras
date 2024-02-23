@@ -1,6 +1,6 @@
-![cold, smooth   tasty (6)](https://github.com/josepcontreras/josepcontreras/assets/41411282/c1177dd2-6878-485e-9326-0ed7572bd2fc)
+![cold, smooth   tasty (3)](https://github.com/josepcontreras/josepcontreras/assets/41411282/cfa193fc-99f8-4406-a6be-5eede9e6a895)
 
-I'm a Full Stack Web Developer. With a deep-seated passion for technology and an insatiable curiosity, I've dedicated myself to mastering the art and science of building seamless, intuitive web applications.
+With a deep-seated passion for technology and an insatiable curiosity, I've dedicated myself to mastering the art and science of building seamless, intuitive web applications.
 
 From the front end to the back end, I thrive on the challenge of piecing together the puzzle of languages, frameworks, and technologies to create solutions that not only meet the needs of users but also push the boundaries of what's possible on the web.
 
